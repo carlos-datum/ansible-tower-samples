@@ -3,9 +3,9 @@
   hosts: linux_ubuntu_azure
   gather_facts: no
   
-  tasks:
-  - name: Navegar al directorio
-    command: cd /home/admin123/Practicas_Linux/Ejemplos_bash_scripts/
+#  tasks:
+#  - name: Navegar al directorio
+#    command: cd /home/admin123/Practicas_Linux/Ejemplos_bash_scripts/
     
   - name: Imprimir la ruta actual
     command: pwd
