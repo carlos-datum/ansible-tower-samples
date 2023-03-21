@@ -5,7 +5,7 @@
   
   tasks:
 #  - name: Navegar al directorio
-#    command: cd /home/admin123/Practicas_Linux/Ejemplos_bash_scripts/
+#    command: cd Practicas_Linux/Ejemplos_bash_scripts
     
   - name: Imprimir la ruta actual
     command: pwd
