@@ -4,8 +4,8 @@
   gather_facts: no
   
   tasks:
-#  - name: Navegar al directorio
-#    command: cd Practicas_Linux/Ejemplos_bash_scripts
+  - name: Navegar al directorio
+    command: cd Practicas_Linux/Ejemplos_bash_scripts
     
   - name: Imprimir la ruta actual
     command: pwd
