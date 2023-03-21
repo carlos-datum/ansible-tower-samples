@@ -3,7 +3,7 @@
   hosts: linux_ubuntu_azure
   gather_facts: no
   
-#  tasks:
+  tasks:
 #  - name: Navegar al directorio
 #    command: cd /home/admin123/Practicas_Linux/Ejemplos_bash_scripts/
     
